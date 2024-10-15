@@ -11,7 +11,7 @@
 ### 🚀 **About me:**
 - 🎓 **Accedamic:** Pursuing a Bachelor's degree in [Data Science at Concordia University, Montreal](https://www.concordia.ca/academics/undergraduate/computer-science-data-science.html).
 - 🌟 **Objective:** Passionate about leveraging my knowledge in both Computer science and Mathematics to make tasks simplier and quicker for others to use in today's modern world of technology. A true believer that if anything's done manually can be done through a machine.
-- 💡 **Interests:** My interests lie down into solving real world problems such as the usage of **AI**, **Machine Learning** or **Sofware**.  
+- 💡 **Interests:** My interests lie down into solving real world problems such as the usage of **AI**, **Machine Learning** or **Software**.  
 
 
 <h3 align="center">Languages and Tools</h3>
