@@ -53,7 +53,7 @@
 ---
 
 ### 🛠️ **Tech Stack**
-- **Languages:** Python, Java, C, Assembly, JavaScript, HTML/CSS
+- **Languages:** Python, R, Java, C, Assembly, JavaScript, HTML/CSS, C++
 - **Frameworks & Tools:** Git, GitHub, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, AutoCAD, Revit
 - **Operating Systems:** Windows 11 Linux (Ubuntu/Docker), macOS
 - **Problem-Solving:** Recognized for analytical thinking and a strong drive to deliver the most cost-effective solutions.
