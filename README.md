@@ -13,7 +13,7 @@
 - 🌟 **Objective:** Passionate about leveraging my knowledge in both Computer science and Mathematics to make tasks simplier and quicker for others to use in today's modern world of technology. A true believer that if anything's done manually can be done through a machine.
 - 💡 **Interests:** My interests lie down into solving real world problems such as the usage of **AI**, **Machine Learning** or **Software**.  
 
-     To be a skilled programmer, first master the art of building algorithms without reliance on any specific language. The true power lies in understanding the logic and structure, for languages are merely tools to bring those ideas to life. 
+<h4 align ="center">To be a skilled programmer, first master the art of building algorithms without reliance on any specific language. The true power lies in understanding the logic and structure, for languages are merely tools to bring those ideas to life. </h4>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
