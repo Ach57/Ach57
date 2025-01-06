@@ -53,11 +53,22 @@
 
 ---
 
-### 🛠️ **Tech Stack**
-- **Languages:** Python, R, Java, C, Assembly, JavaScript, HTML/CSS, C++
-- **Frameworks & Tools:** Git, GitHub, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, AutoCAD, Revit
-- **Operating Systems:** Windows 11 Linux (Ubuntu/Docker), macOS
-- **Problem-Solving:** Recognized for analytical thinking and a strong drive to deliver the most cost-effective solutions.
+### 🛠️ **Languages and Tools**
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3.9-blue)  
+![Java](https://img.shields.io/badge/Java-11-orange)  
+![C](https://img.shields.io/badge/C-blue)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+**Web Development:**  
+![HTML5](https://img.shields.io/badge/HTML5-red)  
+![CSS3](https://img.shields.io/badge/CSS3-blue)  
+![Node.js](https://img.shields.io/badge/Node.js-16-green)
+
+**Data Science:**  
+![R](https://img.shields.io/badge/R-3.6-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6-blue)
 
 ---
 
