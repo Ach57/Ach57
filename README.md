@@ -1,6 +1,6 @@
-<img src="https://undraw.co/illustration.svg" width="500"/>
- 
-  
+
+  ![neural_network](https://github.com/user-attachments/assets/d1786e0f-2fb4-4c18-a06b-60cc6d33941c)
+
 
 ### <div align="center">I'm Ach, a Computer Science and Data Science Student at Concordia University 🚀</div>  
   
