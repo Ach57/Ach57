@@ -93,4 +93,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="500"/>
+
+
 
