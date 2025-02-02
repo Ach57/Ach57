@@ -84,5 +84,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ach57&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+## Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ach57&layout=compact&hide_border=true&langs_count=10" />
+</div>
+
 
 
