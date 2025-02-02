@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://undraw.co/illustration.svg" width="500"/>
+ 
   
 
 ### <div align="center">I'm Ach, a Computer Science and Data Science Student at Concordia University 🚀</div>  
@@ -93,7 +92,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="500"/>
+
 
 
 
