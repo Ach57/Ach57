@@ -8,14 +8,13 @@
 ### <div align="center">I'm Ach, a Computer Science and Data Science Student at Concordia University 🚀</div>  
   
 
-- 🔭 I’m currently working on a private project involving the usage of Artificial intelligence using informed Search algorithms with my two of my peers. 
-  
-
-- 🌱 I’m currently learning Machine Learning Artificial Intelligence and Big Data Analysis.  
-  
-
-- ❓ Ask me about anything related to gym and nutrition  
-  
+## 🚀 About Me
+- 🔭 I’m currently working on a private AI project using Informed Search Algorithms with two of my peers.
+- 🌱 I’m currently learning Machine Learning, Artificial Intelligence, and Big Data Analysis.
+- 🛠️ I work with Python, Java, C, and JavaScript, focusing on AI, Data Science, and Web Development.
+- ⚡ **Tools & Frameworks**: TensorFlow, PyTorch, NumPy, Pandas, Scikit-Learn, OpenCV, Flask, Node.js.
+- 💡 **Interests**: Computer Vision, Reinforcement Learning, and Backend Development.
+- ❓ Ask me about gym, nutrition, and fitness—I’m always happy to help!
 
 <br/>  
 
@@ -89,11 +88,7 @@
 </div>
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 
 
