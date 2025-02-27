@@ -31,10 +31,10 @@
 </div>
 
 <div align = "center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ach57&theme=aura_dark)
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ach57&theme=aura_dark", width = "48%">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ach57&theme=aura_dark&utcOffset=8)
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ach57&theme=aura_dark&utcOffset=8" style = "48%">
+
 
   
 </div>
