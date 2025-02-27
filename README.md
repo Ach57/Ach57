@@ -25,3 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ach57&" alt="Ach57" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ach57&show_icons=true&locale=en&layout=compact" alt="Ach57" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ach57" alt="Ach57" /></a></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ach57&theme=aura_dark)
+
