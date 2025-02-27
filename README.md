@@ -30,4 +30,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ach57&theme=aura_dark" alt="Most Commit Language" width="48%">
 </div>
 
+<div align = "center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ach57&theme=aura_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ach57&theme=aura_dark&utcOffset=8)
+
+  
+</div>
+
 </div>
