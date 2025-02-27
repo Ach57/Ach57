@@ -1,4 +1,4 @@
-<img src = "https://github.com/user-attachments/assets/dd75e1cb-19b8-4427-89cd-eb857b7889b6" height = 300px> 
+<img src = "https://github.com/user-attachments/assets/dd75e1cb-19b8-4427-89cd-eb857b7889b6" height = 400px> 
 <h1>Hi 👋, I'm Achraf and I'm a Data Science Student</h1>
 <p>Passionate about software enginnering, Machine Learning and AI</p>
 <h2>🚀 Languages and Tools I Use</h2>
