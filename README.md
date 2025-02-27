@@ -1,4 +1,4 @@
-<div align = "centre>
+<div align="center">
   <img src = "https://github.com/user-attachments/assets/dd75e1cb-19b8-4427-89cd-eb857b7889b6" height = 400px> 
 </div>
 
