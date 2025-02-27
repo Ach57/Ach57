@@ -22,10 +22,12 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/achraf-c-0bbb19177/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <h2>Ach57 Stats:</h2>
-
+<div align = "center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ach57&theme=aura_dark)
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ach57&theme=aura_dark" alt="Repos per Language" width="48%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ach57&theme=aura_dark" alt="Most Commit Language" width="48%">
+</div>
+
 </div>
