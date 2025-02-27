@@ -31,9 +31,9 @@
 </div>
 
 <div align = "center">
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ach57&theme=aura_dark" width = "48%">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ach57&theme=aura_dark" width = "40%">
 
-  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ach57&theme=aura_dark&utcOffset=8">
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ach57&theme=aura_dark&utcOffset=8" width= "100%">
 
 
   
