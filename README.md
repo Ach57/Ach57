@@ -1,6 +1,7 @@
-<div align="center">
-  <img src = "https://github.com/user-attachments/assets/dd75e1cb-19b8-4427-89cd-eb857b7889b6](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" height = 450px  width = 900px> 
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Description" />
+</p>
+
 
 
 <h1>Hi 👋, I'm Achraf and I'm a Data Science Student</h1>
