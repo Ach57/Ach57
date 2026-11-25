@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Achraf&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20ML%20%26%20AI%20%C2%B7%20Software%20Engineering&descAlignY=60&descSize=18" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=200&section=header&text=Data%20Science%20%7C%20ML%20%7C%20AI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Banner" width="100%"/>
 </p>
 
 <p align="center">
@@ -63,4 +63,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ach57&theme=aura_dark&utcOffset=-5" width="48%" alt="productive time"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%" alt="footer"/>
